@@ -100,7 +100,7 @@ De forma personal y por experiencia recomendaría Github pues es una forma de ut
 **OAuth:** Según Microsoft es un estándar tecnológico que permite autorizar a una aplicación o servicio a iniciar sesión en otra sin divulgar información privada, como contraseñas.
 
 
-**b. Diagrama de flujo explicativo del proceso de autenticación con JWT.**![Diagrama de JWT](https://drive.google.com/uc?export=view&id=1prk6zxAKNjlCXZKiY3tb-UjD1EUETZEH)
+**b. Diagrama de flujo explicativo del proceso de autenticación con JWT.**![alt text](JWT.drawio.png)
 
 
 **c. Buenas prácticas en seguridad web.**
@@ -141,8 +141,7 @@ Generalmente su arquitectura se basa en el aprovechamiento por medio de APIS, pe
 
 
 **d. Ejemplo de cómo se conecta el frontend a un CMS headless.**
-![Ejemplo de cómo conectar un frontend con un headless cms](https://drive.google.com/uc?export=view&id=1p8d-b9efdw2jZ45k3aSQQnqRfJhesuR-)
-
+![alt text](CMS.drawio.png)
 
 ## *5. Pasarelas de pago en aplicaciones web🤑*
 
