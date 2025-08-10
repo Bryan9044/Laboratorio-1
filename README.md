@@ -5,8 +5,12 @@
 Framework seleccionado - *Vue*
 **a. ¿Qué es un framework y qué problema resuelve?**
 En si un framework lo que hace es darnos una plantilla o una base con la cual empezar a trabajar en el desarrollo de aplicaciones de forma que nos ahorra tiempo en ciertas tareas que antes tal vez fueran más rutinarias, de esta forma los programadores se pueden centrar más en la lógica y en el funcionamiento del mismo.
+
+
 **b. Arquitectura general y enfoque (MVC, SPA, SSR, etc.).**
 La arquitectura de *Vue* se basa en el modelo MVVM (modelo - vista - vista modelo) el cual es uno relativamente nuevo además de esto, la separación lógica que contiene lo hace muy flexible y ordenado pues se basa en separar la parte de la capa de presentación y la lógica empresarial, además de esto sus componentes se utilizan en base a su estado
+
+
 **c.** **Ejemplo práctico documentado (estructura de proyecto, fragmento de código comentado).**
 Estructura de un proyecto en Vue
 ├── node_modules/  
@@ -35,7 +39,6 @@ Luego está la carpeta **src/** que es la carpeta o por lo menos es considerada 
 Luego tendremos un archivo como App.vue el cual es casi como un html porque tiene 3 estructuras que son **< template >**, **< script >** y **< style >** 
 En la carpeta **assets** guardaremos los archivos estáticos como lo pueden ser las imágenes, audios o videos estos son los que utilizaremos dentro de nuestro código. 
 La carpeta **router** sirve para crear rutas dentro del frontend esto lo podemos utilizar para crear aplicaciones con APIS, generalmente su archivo se llama **index.js** o **index.ts**.
-
 Para la carpeta **stores** generalmente esta solo se utiliza si se combina con pinia o para almacenar algún tipo de estado y por último la carpeta **components/**  en esta carpeta se van a guardar los archivos **.vue** que se creen durante la ejecución del proyecto es importante recordar que estos son los que contienen html, css y js 
 
 **d.** **Comparación breve entre al menos dos frameworks (según lenguaje o enfoque).** 
