@@ -38,9 +38,9 @@ La carpeta **router** sirve para crear rutas dentro del frontend esto lo podemos
 
 Para la carpeta **stores** generalmente esta solo se utiliza si se combina con pinia o para almacenar algún tipo de estado y por último la carpeta **components/**  en esta carpeta se van a guardar los archivos **.vue** que se creen durante la ejecución del proyecto es importante recordar que estos son los que contienen html, css y js 
 
-**d.** **Comparación breve entre al menos dos frameworks (según lenguaje o enfoque).** Para la comparación será entre *Vue* y *Angular*  las dos son relativamente similares pues ambas utilizan javascript un lenguaje relativamente derivado del otro pues Angular utiliza *typescript*  los cuales son muy parecidos sin embargo Vue se enfoca más para una curva de aprendizaje más fácil y con despliegue de proyectos más rápido sin embargo typescript es un poco más compleja y se usa para proyectos con mayor escala. 
+**d.** **Comparación breve entre al menos dos frameworks (según lenguaje o enfoque).** 
 
- **d. Comparación breve: Vue vs Angular**
+ **Comparación breve: Vue vs Angular**
 | Característica        | Vue.js | Angular |
 |----------------------|--------|---------|
 | Lenguaje principal   | JavaScript | TypeScript |
