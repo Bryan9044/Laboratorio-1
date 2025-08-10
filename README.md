@@ -3,6 +3,7 @@
 ## 1. *Frameworks de desarrollo web📰*
 
 Framework seleccionado - *Vue*
+
 **a.¿Qué es un framework y qué problema resuelve?**
 En si un framework lo que hace es darnos una plantilla o una base con la cual empezar a trabajar en el desarrollo de aplicaciones de forma que nos ahorra tiempo en ciertas tareas que antes tal vez fueran más rutinarias, de esta forma los programadores se pueden centrar más en la lógica y en el funcionamiento del mismo.
 **b.Arquitectura general y enfoque (MVC, SPA, SSR, etc.).**
