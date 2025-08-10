@@ -3,9 +3,9 @@
 ## 1. *Frameworks de desarrollo web📰*
 
 Framework seleccionado - *Vue*
-**a.****¿Qué es un framework y qué problema resuelve?**  
+**a.¿Qué es un framework y qué problema resuelve?**
 En si un framework lo que hace es darnos una plantilla o una base con la cual empezar a trabajar en el desarrollo de aplicaciones de forma que nos ahorra tiempo en ciertas tareas que antes tal vez fueran más rutinarias, de esta forma los programadores se pueden centrar más en la lógica y en el funcionamiento del mismo.
-**b.****Arquitectura general y enfoque (MVC, SPA, SSR, etc.).**  
+**b.Arquitectura general y enfoque (MVC, SPA, SSR, etc.).**
 La arquitectura de *Vue* se basa en el modelo MVVM (modelo - vista - vista modelo) el cual es uno relativamente nuevo además de esto, la separación lógica que contiene lo hace muy flexible y ordenado pues se basa en separar la parte de la capa de presentación y la lógica empresarial, además de esto sus componentes se utilizan en base a su estado
 **c.** **Ejemplo práctico documentado (estructura de proyecto, fragmento de código comentado).**
 Estructura de un proyecto en Vue
@@ -52,7 +52,7 @@ Para la carpeta **stores** generalmente esta solo se utiliza si se combina con p
 
 ## *2. Control de versiones y trabajo colaborativo🫱🏻‍🫲🏼*
 
-**a.¿Qué es el control de versiones y por qué es esencial?** 
+**a. ¿Qué es el control de versiones y por qué es esencial?** 
 Un control de versiones se puede observar como una lista en las cuales se tendrán diferentes progresos o partes del proyecto según se requiera esto generalmente para llevar un mejor orden y así evitar problemas ante futuras actualizaciones.
 **b. Conceptos clave: repositorio, commit, branch, merge, pull request.**
 ***Repositorio:*** Se puede observar como un sistema de almacenado el cual contiene grandes cantidades de información.
@@ -86,7 +86,7 @@ De forma personal y por experiencia recomendaría Github pues es una forma de ut
 **Tokens:** En general un token es reconocido por ser un tipo de activo digital, en estos casos puede representar monedas digitales, derechos de autor o el acceso a ciertos tipos de servicios. 
 **JWT (Json Web Token):** Es un tipo de token el cual se encarga de recibir ciertos tipos de datos en formato Json para verificar la propiedad de una persona, la diferencia es que la cadena ya viene codificada y con URL seguro para ser utilizada. 
 **OAuth:** Según Microsoft es un estándar tecnológico que permite autorizar a una aplicación o servicio a iniciar sesión en otra sin divulgar información privada, como contraseñas.
-**b.Diagrama de flujo explicativo del proceso de autenticación con JWT.**![Diagrama de JWT](https://drive.google.com/uc?export=view&id=1prk6zxAKNjlCXZKiY3tb-UjD1EUETZEH)
+**b. Diagrama de flujo explicativo del proceso de autenticación con JWT.**![Diagrama de JWT](https://drive.google.com/uc?export=view&id=1prk6zxAKNjlCXZKiY3tb-UjD1EUETZEH)
 
 **c. Buenas prácticas en seguridad web.**
 1. No dejar ninguna contraseña de forma que sea visible o algún dato sensible a la vista.
@@ -116,7 +116,8 @@ Generalmente su arquitectura se basa en el aprovechamiento por medio de APIS, pe
 2. Es muy dependiente de las APIS para su funcionamiento.
 3. Necesita de conocimiento previo en APIS por lo cual la curva de aprendizaje es más lenta.
 4. Prácticamente que no tiene plantillas ya predefinidas pues como cada una varía mucho por el tipo de dato que consuma no es tan eficiente el que existan. 
-**d. Ejemplo de cómo se conecta el frontend a un CMS headless.**![Ejemplo de cómo conectar un frontend con un headless cms](https://drive.google.com/uc?export=view&id=1p8d-b9efdw2jZ45k3aSQQnqRfJhesuR-)
+**d. Ejemplo de cómo se conecta el frontend a un CMS headless.**
+![Ejemplo de cómo conectar un frontend con un headless cms](https://drive.google.com/uc?export=view&id=1p8d-b9efdw2jZ45k3aSQQnqRfJhesuR-)
 
 
 ## *5. Pasarelas de pago en aplicaciones web🤑*
@@ -193,7 +194,7 @@ Diferencias entre hostings
 15. Lo presionamos y observamos los resultados 
 
 [Link del Netlify](https://adorable-shortbread-35939b.netlify.app/)
-[Características del desarrollo web moderno](https://adorable-shortbread-35939b.netlify.app/)
+
 
 
 
