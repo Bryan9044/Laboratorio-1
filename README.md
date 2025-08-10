@@ -3,10 +3,9 @@
 ## 1. *Frameworks de desarrollo web📰*
 
 Framework seleccionado - *Vue*
-
-**a.¿Qué es un framework y qué problema resuelve?**
+**a. ¿Qué es un framework y qué problema resuelve?**
 En si un framework lo que hace es darnos una plantilla o una base con la cual empezar a trabajar en el desarrollo de aplicaciones de forma que nos ahorra tiempo en ciertas tareas que antes tal vez fueran más rutinarias, de esta forma los programadores se pueden centrar más en la lógica y en el funcionamiento del mismo.
-**b.Arquitectura general y enfoque (MVC, SPA, SSR, etc.).**
+**b. Arquitectura general y enfoque (MVC, SPA, SSR, etc.).**
 La arquitectura de *Vue* se basa en el modelo MVVM (modelo - vista - vista modelo) el cual es uno relativamente nuevo además de esto, la separación lógica que contiene lo hace muy flexible y ordenado pues se basa en separar la parte de la capa de presentación y la lógica empresarial, además de esto sus componentes se utilizan en base a su estado
 **c.** **Ejemplo práctico documentado (estructura de proyecto, fragmento de código comentado).**
 Estructura de un proyecto en Vue
